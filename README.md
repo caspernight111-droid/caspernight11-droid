@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am a passionate freelance web developer dedicate
 ---
 
 ### 🛠️ Core Technical Skills
-* **Front-End:** HTML5, CSS3, JavaScript, React.js
-* **Back-End:** PHP
+* **Front-End:** HTML5, CSS3, JavaScript, React.js, bootstrap, typescript
+* **Back-End:** PHP, nodejs, nestjs
 * **CMS:** WordPress Customization & Landing Page Architecture (including custom headers, footers, and tailored sections)
 * **Design:** Building responsive layouts that deliver seamless user experiences across all devices
 
